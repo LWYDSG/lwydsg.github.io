@@ -1,2 +1,2 @@
 # lwydsg.github.io
-personal page
+my personal page
