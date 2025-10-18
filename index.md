@@ -9,4 +9,6 @@ title: Welcome
 
 # [lwydsg@mail.nankai.edu.cn](mailto:lwydsg@mail.nankai.edu.cn)
 
+# [MAC iMessage](imessage:lwydsgdsg@163.com)
 
+# [iOS/iPadOS iMessage](sms:lwydsgdsg@163.com)
